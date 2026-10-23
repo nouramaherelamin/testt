@@ -1,13 +1,8 @@
-
 # Project Demo
 
 Welcome to this repository!
-
 This repository contains resources and references related to my tech projects. Some projects include video demonstrations to showcase their functionality and user interface.
-
 ## About Me
-
-I'm Noura Maher, interested in AI, Data Engineering, and Software Development.
 
 ## Explore More
 
@@ -16,5 +11,5 @@ I'm Noura Maher, interested in AI, Data Engineering, and Software Development.
 - **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/nouramaherelamin/)
 
 ---
-
 *Thanks for visiting!*
+
