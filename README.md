@@ -1,3 +1,4 @@
+
 # Project Demo
 
 Welcome to this repository!
@@ -11,5 +12,6 @@ This repository contains resources and references related to my tech projects. S
 - **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/nouramaherelamin/)
 
 ---
+
 *Thanks for visiting!*
 
