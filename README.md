@@ -1,17 +1,8 @@
-<<<<<<< Updated upstream
-# Test
-# 1test
-## test
-=======
-
 # Project Demo
 
 Welcome to this repository!
-
 This repository contains resources and references related to my tech projects. Some projects include video demonstrations to showcase their functionality and user interface.
-
 ## About Me
- interested in AI, Data Engineering, and Software Development.
 
 ## Explore More
 
@@ -20,6 +11,5 @@ This repository contains resources and references related to my tech projects. S
 - **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/nouramaherelamin/)
 
 ---
+*Thanks for visiting!*
 
-*Thanks for visiting*
->>>>>>> Stashed changes
